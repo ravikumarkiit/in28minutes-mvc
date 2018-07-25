@@ -1,0 +1,7 @@
+Run Configuration:
+
+Base Directory
+${workspace_loc:/Courses-in28minutes-mvc}
+
+Goals
+tomcat7:run
